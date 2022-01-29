@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything computer and coding
 - 🌱 I’m currently learning how to code, network administration, and data analyzing
 - 💞️ I’m looking to collaborate on beginner coding projects
-- 📫 How to reach me...
+- 📫 How to reach me... send me a pull request and lets get to work
 
 <!---
 porterlauryn/porterlauryn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
